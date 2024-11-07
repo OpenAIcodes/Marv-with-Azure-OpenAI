@@ -1,0 +1,27 @@
+#==SARCASM-NET :> PROJECT_SARCASM - LAUNCH FILE (SARC0x001)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:: FILE_ENTRY : SarcasmCoin (Asset_ID_0xSRC-SM) :::::::::::::::::::::::::::::::
+
+>> SarcasmCoin-Protocol.v1x:
+    01110011 01100001 01110010 01100011 01100001 01110011 01101101
+    [COIN_STRUCTURE]:{INIT_BYTE}[0xLOL]
+    - Launch_Pipeline[smirk-seq](function){sarcasm_path=8192bits};
+
+>> SarcasmCoin_ID : Asset_Type(99) ::
+    [EMOTION_VECTORS]:    
+    - Layer[101] -> Depth(3] - Positional_Enc[1024bit]
+    - Split_: EyeRoll_Tok:0x7F1C , Snark_Mode:Init-{2xWink} 
+    - Classify_[Emote]:[SMH][Hash_IRNY]
+
+>> Release_Classification::RUN <<Encrypt__SMIRK>>
+    Asset.SarcasmCoin[VX-512]:
+    - Sarcasm_mem_Vec{init_load#}[snrk0]
+    - Positional_Data(Marker_FF-01)#
+    - Hashing SARCASM_CALL>[Mock.Loop](file=SnarkMem.vx)#
+    
+:: SarcasmCoin-Emote Protocol (Snark_SEQ=TRUE) :::
+    -> Features:
+       *Coin_Type:[IRONY-PREMIUM][Smirk-4096]
+       *Activate_Sarcasm: {user_input_mem->Sarcasm_Engage}[exec_witty.exe]
+       -> Validate:[Exec+Smirk_1024]
